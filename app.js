@@ -50,10 +50,10 @@
     }]);
 
 
-    app.directive("causes", function() {
+    app.directive("cause", function() {
         return {
             restrict: 'E',
-            templateUrl: "causes.html"
+            templateUrl: "cause.html"
         };
     });
 })();

@@ -15,7 +15,13 @@
     <div class="container-fluid" ng-controller="AppController as appCtrl">
         <h2>Choose Causes and NPOs that you are interested in:</h2>
         <div class="row"> 
-            <causes></causes>
+            <div class="dropdown keep-open col-lg-3 col-md-3"  
+                 ng-repeat="result in appCtrl.arr.results">
+                
+                <!-- Create a dropdown for each cause -->
+                <cause></cause>
+                
+            </div>
         </div>
     </div>
     <br>
