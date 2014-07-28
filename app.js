@@ -5,7 +5,6 @@
   
     app.controller('AppController', ['$http', '$scope', function($http, $scope){
         var info = this;
-        console.log(this);
         info.arr = [];
 
         // Get json data
@@ -51,10 +50,10 @@
     }]);
 
 
-    app.directive("cause", function() {
+    app.directive("causes", function() {
         return {
             restrict: 'E',
-            templateUrl: "cause.html"
+            templateUrl: "causes.html"
         };
     });
 })();
