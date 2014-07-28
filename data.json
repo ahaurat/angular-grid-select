@@ -1,0 +1,2616 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 3,
+            "is_followed": false,
+            "name": "Education",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "B01",
+                    "id": 45,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "B02",
+                    "id": 46,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "B03",
+                    "id": 47,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "B05",
+                    "id": 48,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "B11",
+                    "id": 49,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "B12",
+                    "id": 50,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "B19",
+                    "id": 51,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "B20",
+                    "id": 52,
+                    "name": "Elementary & Secondary Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B21",
+                    "id": 53,
+                    "name": "Preschools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B24",
+                    "id": 54,
+                    "name": "Primary & Elementary Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B25",
+                    "id": 55,
+                    "name": "Secondary & High Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B28",
+                    "id": 56,
+                    "name": "Special Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "B29",
+                    "id": 57,
+                    "name": "Charter Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B30",
+                    "id": 58,
+                    "name": "Vocational & Technical Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B40",
+                    "id": 59,
+                    "name": "Higher Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "B41",
+                    "id": 60,
+                    "name": "Two-Year Colleges"
+                },
+                {
+                    "assignable": true,
+                    "code": "B42",
+                    "id": 61,
+                    "name": "Undergraduate Colleges"
+                },
+                {
+                    "assignable": true,
+                    "code": "B43",
+                    "id": 62,
+                    "name": "Universities"
+                },
+                {
+                    "assignable": true,
+                    "code": "B50",
+                    "id": 63,
+                    "name": "Graduate & Professional Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B60",
+                    "id": 64,
+                    "name": "Adult Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "B70",
+                    "id": 65,
+                    "name": "Libraries"
+                },
+                {
+                    "assignable": true,
+                    "code": "B80",
+                    "id": 66,
+                    "name": "Student Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "B82",
+                    "id": 67,
+                    "name": "Scholarships & Student Financial Aid"
+                },
+                {
+                    "assignable": true,
+                    "code": "B83",
+                    "id": 68,
+                    "name": "Student Sororities & Fraternities"
+                },
+                {
+                    "assignable": true,
+                    "code": "B84",
+                    "id": 69,
+                    "name": "Alumni Associations"
+                },
+                {
+                    "assignable": true,
+                    "code": "B90",
+                    "id": 70,
+                    "name": "Educational Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "B92",
+                    "id": 71,
+                    "name": "Remedial Reading & Encouragement"
+                },
+                {
+                    "assignable": true,
+                    "code": "B94",
+                    "id": 72,
+                    "name": "Parent & Teacher Groups"
+                },
+                {
+                    "assignable": true,
+                    "code": "B99",
+                    "id": 73,
+                    "name": "Education NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 17,
+                    "is_followed": true,
+                    "name": "United Negro College Fund"
+                },
+                {
+                    "id": 14,
+                    "is_followed": true,
+                    "name": "Teach for America "
+                },
+                {
+                    "id": 16,
+                    "is_followed": false,
+                    "name": "College Track "
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "is_followed": false,
+            "name": "Diseases & Disorders ",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "G01",
+                    "id": 169,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "G02",
+                    "id": 170,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "G03",
+                    "id": 171,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "G05",
+                    "id": 172,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "G11",
+                    "id": 173,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "G12",
+                    "id": 174,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "G19",
+                    "id": 175,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "G20",
+                    "id": 176,
+                    "name": "Birth Defects & Genetic Diseases"
+                },
+                {
+                    "assignable": true,
+                    "code": "G25",
+                    "id": 177,
+                    "name": "Down Syndrome"
+                },
+                {
+                    "assignable": true,
+                    "code": "G30",
+                    "id": 178,
+                    "name": "Cancer"
+                },
+                {
+                    "assignable": true,
+                    "code": "G32",
+                    "id": 179,
+                    "name": "Breast Cancer"
+                },
+                {
+                    "assignable": true,
+                    "code": "G40",
+                    "id": 180,
+                    "name": "Diseases of Specific Organs"
+                },
+                {
+                    "assignable": true,
+                    "code": "G41",
+                    "id": 181,
+                    "name": "Eye Diseases, Blindness & Vision Impairments"
+                },
+                {
+                    "assignable": true,
+                    "code": "G42",
+                    "id": 182,
+                    "name": "Ear & Throat Diseases"
+                },
+                {
+                    "assignable": true,
+                    "code": "G43",
+                    "id": 183,
+                    "name": "Heart & Circulatory System Diseases & Disorders"
+                },
+                {
+                    "assignable": true,
+                    "code": "G44",
+                    "id": 184,
+                    "name": "Kidney Diseases"
+                },
+                {
+                    "assignable": true,
+                    "code": "G45",
+                    "id": 185,
+                    "name": "Lung Diseases"
+                },
+                {
+                    "assignable": true,
+                    "code": "G48",
+                    "id": 186,
+                    "name": "Brain Disorders"
+                },
+                {
+                    "assignable": true,
+                    "code": "G50",
+                    "id": 187,
+                    "name": "Nerve, Muscle & Bone Diseases"
+                },
+                {
+                    "assignable": true,
+                    "code": "G51",
+                    "id": 188,
+                    "name": "Arthritis"
+                },
+                {
+                    "assignable": true,
+                    "code": "G54",
+                    "id": 189,
+                    "name": "Epilepsy"
+                },
+                {
+                    "assignable": true,
+                    "code": "G60",
+                    "id": 190,
+                    "name": "Allergy-Related Diseases"
+                },
+                {
+                    "assignable": true,
+                    "code": "G61",
+                    "id": 191,
+                    "name": "Asthma"
+                },
+                {
+                    "assignable": true,
+                    "code": "G70",
+                    "id": 192,
+                    "name": "Digestive Diseases & Disorders"
+                },
+                {
+                    "assignable": true,
+                    "code": "G80",
+                    "id": 193,
+                    "name": "Specifically Named Diseases"
+                },
+                {
+                    "assignable": true,
+                    "code": "G81",
+                    "id": 194,
+                    "name": "AIDS"
+                },
+                {
+                    "assignable": true,
+                    "code": "G83",
+                    "id": 195,
+                    "name": "Alzheimer\u2019s Disease"
+                },
+                {
+                    "assignable": true,
+                    "code": "G84",
+                    "id": 196,
+                    "name": "Autism"
+                },
+                {
+                    "assignable": true,
+                    "code": "G90",
+                    "id": 197,
+                    "name": "Medical Disciplines"
+                },
+                {
+                    "assignable": true,
+                    "code": "G92",
+                    "id": 198,
+                    "name": "Biomedicine & Bioengineering "
+                },
+                {
+                    "assignable": true,
+                    "code": "G94",
+                    "id": 199,
+                    "name": "Geriatrics"
+                },
+                {
+                    "assignable": true,
+                    "code": "G96",
+                    "id": 200,
+                    "name": "Neurology & Neuroscience"
+                },
+                {
+                    "assignable": true,
+                    "code": "G98",
+                    "id": 201,
+                    "name": "Pediatrics"
+                },
+                {
+                    "assignable": true,
+                    "code": "G9B",
+                    "id": 203,
+                    "name": "Surgical Specialties"
+                },
+                {
+                    "assignable": true,
+                    "code": "G99",
+                    "id": 202,
+                    "name": "Diseases, Disorders & Medical Disciplines NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "H01",
+                    "id": 205,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "H02",
+                    "id": 206,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "H03",
+                    "id": 207,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "H05",
+                    "id": 208,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "H11",
+                    "id": 209,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "H12",
+                    "id": 210,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "H19",
+                    "id": 211,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "H20",
+                    "id": 212,
+                    "name": "Birth Defects & Genetic Diseases Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H25",
+                    "id": 213,
+                    "name": "Down Syndrome Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H30",
+                    "id": 214,
+                    "name": "Cancer Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H32",
+                    "id": 215,
+                    "name": "Breast Cancer Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H40",
+                    "id": 216,
+                    "name": "Diseases of Specific Organ Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H41",
+                    "id": 217,
+                    "name": "Eye Diseases, Blindness & Vision Impairments Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H42",
+                    "id": 218,
+                    "name": "Ear & Throat Diseases Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H43",
+                    "id": 219,
+                    "name": "Heart & Circulatory System Diseases & Disorders Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H44",
+                    "id": 220,
+                    "name": "Kidney Diseases Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H45",
+                    "id": 221,
+                    "name": "Lung Diseases Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H48",
+                    "id": 222,
+                    "name": "Brain Disorders Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H50",
+                    "id": 223,
+                    "name": "Nerve, Muscle & Bone Diseases Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H51",
+                    "id": 224,
+                    "name": "Arthritis Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H54",
+                    "id": 225,
+                    "name": "Epilepsy Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H60",
+                    "id": 226,
+                    "name": "Allergy-Related Diseases Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H61",
+                    "id": 227,
+                    "name": "Asthma Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H70",
+                    "id": 228,
+                    "name": "Digestive Diseases & Disorders Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H80",
+                    "id": 229,
+                    "name": "Specifically Named Diseases Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H81",
+                    "id": 230,
+                    "name": "AIDS Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H83",
+                    "id": 231,
+                    "name": "Alzheimer\u2019s Disease Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H84",
+                    "id": 232,
+                    "name": "Autism Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H90",
+                    "id": 233,
+                    "name": "Medical Disciplines Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H92",
+                    "id": 234,
+                    "name": "Biomedicine & Bioengineering Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H94",
+                    "id": 235,
+                    "name": "Geriatrics Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H96",
+                    "id": 236,
+                    "name": "Neurology & Neuroscience Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H98",
+                    "id": 237,
+                    "name": "Pediatrics Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H9B",
+                    "id": 239,
+                    "name": "Surgical Specialties Research"
+                },
+                {
+                    "assignable": true,
+                    "code": "H99",
+                    "id": 238,
+                    "name": "Medical Research NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 33,
+                    "is_followed": false,
+                    "name": "Autism Speaks"
+                },
+                {
+                    "id": 26,
+                    "is_followed": false,
+                    "name": "American Foundation for Suicide Prevention"
+                },
+                {
+                    "id": 22,
+                    "is_followed": false,
+                    "name": "St. Jude Children's Research Hospital"
+                },
+                {
+                    "id": 24,
+                    "is_followed": false,
+                    "name": "City of Hope"
+                },
+                {
+                    "id": 32,
+                    "is_followed": true,
+                    "name": "Alzheimer's Association "
+                },
+                {
+                    "id": 30,
+                    "is_followed": true,
+                    "name": "Cancer Research Institute"
+                },
+                {
+                    "id": 31,
+                    "is_followed": true,
+                    "name": "amfAR "
+                },
+                {
+                    "id": 25,
+                    "is_followed": false,
+                    "name": "American Heart Association "
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "is_followed": false,
+            "name": "Disaster Relief ",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "M01",
+                    "id": 324,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "M02",
+                    "id": 325,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "M03",
+                    "id": 326,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "M05",
+                    "id": 327,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "M11",
+                    "id": 328,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "M12",
+                    "id": 329,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "M19",
+                    "id": 330,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "M20",
+                    "id": 331,
+                    "name": "Disaster Preparedness & Relief Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "M23",
+                    "id": 332,
+                    "name": "Search & Rescue Squads"
+                },
+                {
+                    "assignable": true,
+                    "code": "M24",
+                    "id": 333,
+                    "name": "Fire Prevention"
+                },
+                {
+                    "assignable": true,
+                    "code": "M40",
+                    "id": 334,
+                    "name": "Safety Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "M41",
+                    "id": 335,
+                    "name": "First Aid"
+                },
+                {
+                    "assignable": true,
+                    "code": "M42",
+                    "id": 336,
+                    "name": "Automotive Safety"
+                },
+                {
+                    "assignable": true,
+                    "code": "M60",
+                    "id": 337,
+                    "name": "Public Safety Benevolent Associations"
+                },
+                {
+                    "assignable": true,
+                    "code": "M99",
+                    "id": 338,
+                    "name": "Public Safety, Disaster Preparedness & Relief NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 49,
+                    "is_followed": true,
+                    "name": "Save the Children"
+                },
+                {
+                    "id": 48,
+                    "is_followed": true,
+                    "name": "Doctors Without Borders"
+                },
+                {
+                    "id": 42,
+                    "is_followed": true,
+                    "name": "American Red Cross"
+                },
+                {
+                    "id": 40,
+                    "is_followed": false,
+                    "name": "Feeding America"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "is_followed": false,
+            "name": "Crime & Violence ",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "I01",
+                    "id": 241,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "I02",
+                    "id": 242,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "I03",
+                    "id": 243,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "I05",
+                    "id": 244,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "I11",
+                    "id": 245,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "I12",
+                    "id": 246,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "I19",
+                    "id": 247,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "I20",
+                    "id": 248,
+                    "name": "Crime Prevention"
+                },
+                {
+                    "assignable": true,
+                    "code": "I21",
+                    "id": 249,
+                    "name": "Youth Violence Prevention"
+                },
+                {
+                    "assignable": true,
+                    "code": "I23",
+                    "id": 250,
+                    "name": "Drunk Driving-Related"
+                },
+                {
+                    "assignable": true,
+                    "code": "I30",
+                    "id": 251,
+                    "name": "Correctional Facilities"
+                },
+                {
+                    "assignable": true,
+                    "code": "I31",
+                    "id": 252,
+                    "name": "Half-Way Houses for Offenders & Ex-Offenders"
+                },
+                {
+                    "assignable": true,
+                    "code": "I40",
+                    "id": 253,
+                    "name": "Rehabilitation Services for Offenders"
+                },
+                {
+                    "assignable": true,
+                    "code": "I43",
+                    "id": 254,
+                    "name": "Inmate Support"
+                },
+                {
+                    "assignable": true,
+                    "code": "I44",
+                    "id": 255,
+                    "name": "Prison Alternatives"
+                },
+                {
+                    "assignable": true,
+                    "code": "I50",
+                    "id": 256,
+                    "name": "Administration of Justice"
+                },
+                {
+                    "assignable": true,
+                    "code": "I51",
+                    "id": 257,
+                    "name": "Dispute Resolution & Mediation"
+                },
+                {
+                    "assignable": true,
+                    "code": "I60",
+                    "id": 258,
+                    "name": "Law Enforcement"
+                },
+                {
+                    "assignable": true,
+                    "code": "I70",
+                    "id": 259,
+                    "name": "Protection Against Abuse"
+                },
+                {
+                    "assignable": true,
+                    "code": "I71",
+                    "id": 260,
+                    "name": "Spouse Abuse Prevention"
+                },
+                {
+                    "assignable": true,
+                    "code": "I72",
+                    "id": 261,
+                    "name": "Child Abuse Prevention"
+                },
+                {
+                    "assignable": true,
+                    "code": "I73",
+                    "id": 262,
+                    "name": "Sexual Abuse Prevention"
+                },
+                {
+                    "assignable": true,
+                    "code": "I80",
+                    "id": 263,
+                    "name": "Legal Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "I83",
+                    "id": 264,
+                    "name": "Public Interest Law"
+                },
+                {
+                    "assignable": true,
+                    "code": "I99",
+                    "id": 265,
+                    "name": "Crime & Legal-Related NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 5,
+                    "is_followed": false,
+                    "name": "National Coalition for Child Protection Reform"
+                },
+                {
+                    "id": 35,
+                    "is_followed": true,
+                    "name": " Brady Center To Prevent Gun Violence"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "is_followed": false,
+            "name": "Military & Veterans",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "W30",
+                    "id": 590,
+                    "name": "Military & Veterans\u2019 Organizations"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 55,
+                    "is_followed": false,
+                    "name": "Navy SEAL Foundation "
+                },
+                {
+                    "id": 56,
+                    "is_followed": false,
+                    "name": "Homes for Our Troops"
+                },
+                {
+                    "id": 54,
+                    "is_followed": false,
+                    "name": "Wounded Warrior Project"
+                },
+                {
+                    "id": 57,
+                    "is_followed": false,
+                    "name": "Disabled American Veterans"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "is_followed": false,
+            "name": "International ",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "Q01",
+                    "id": 444,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "Q02",
+                    "id": 445,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "Q03",
+                    "id": 446,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "Q05",
+                    "id": 447,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "Q11",
+                    "id": 448,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "Q12",
+                    "id": 449,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "Q19",
+                    "id": 450,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q20",
+                    "id": 451,
+                    "name": "Promotion of International Understanding"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q21",
+                    "id": 452,
+                    "name": "International Cultural Exchange"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q22",
+                    "id": 453,
+                    "name": "International Academic Exchange"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q23",
+                    "id": 454,
+                    "name": "International Exchange NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q30",
+                    "id": 455,
+                    "name": "International Development"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q31",
+                    "id": 456,
+                    "name": "International Agricultural Development"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q32",
+                    "id": 457,
+                    "name": "International Economic Development"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q33",
+                    "id": 458,
+                    "name": "International Relief"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q35",
+                    "id": 459,
+                    "name": "Democracy & Civil Society Development"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q40",
+                    "id": 460,
+                    "name": "International Peace & Security"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q41",
+                    "id": 461,
+                    "name": "Arms Control & Peace"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q42",
+                    "id": 462,
+                    "name": "United Nations Associations"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q43",
+                    "id": 463,
+                    "name": "National Security"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q50",
+                    "id": 464,
+                    "name": "International Affairs, Foreign Policy & Globalization"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q51",
+                    "id": 465,
+                    "name": "International Economic & Trade Policy"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q70",
+                    "id": 466,
+                    "name": "International Human Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q71",
+                    "id": 467,
+                    "name": "International Migration & Refugee Issues"
+                },
+                {
+                    "assignable": true,
+                    "code": "Q99",
+                    "id": 468,
+                    "name": "International, Foreign Affairs & National Security NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 39,
+                    "is_followed": false,
+                    "name": "The Hunger Project"
+                },
+                {
+                    "id": 49,
+                    "is_followed": true,
+                    "name": "Save the Children"
+                },
+                {
+                    "id": 47,
+                    "is_followed": false,
+                    "name": "U.S. Fund for UNICEF"
+                },
+                {
+                    "id": 46,
+                    "is_followed": false,
+                    "name": "Human Rights Watch"
+                },
+                {
+                    "id": 53,
+                    "is_followed": false,
+                    "name": "Oxfam America"
+                },
+                {
+                    "id": 44,
+                    "is_followed": false,
+                    "name": " American Refugee Committee"
+                },
+                {
+                    "id": 45,
+                    "is_followed": false,
+                    "name": "World Food Program USA"
+                },
+                {
+                    "id": 20,
+                    "is_followed": false,
+                    "name": "Rainforest Alliance "
+                },
+                {
+                    "id": 42,
+                    "is_followed": true,
+                    "name": "American Red Cross"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "is_followed": false,
+            "name": "Civil Rights & Social Action ",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "R01",
+                    "id": 470,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "R02",
+                    "id": 471,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "R03",
+                    "id": 472,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "R05",
+                    "id": 473,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "R11",
+                    "id": 474,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "R12",
+                    "id": 475,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "R19",
+                    "id": 476,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "R20",
+                    "id": 477,
+                    "name": "Civil Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "R22",
+                    "id": 478,
+                    "name": "Minority Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "R23",
+                    "id": 479,
+                    "name": "Disabled Persons\u2019 Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "R24",
+                    "id": 480,
+                    "name": "Women\u2019s Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "R25",
+                    "id": 481,
+                    "name": "Seniors\u2019 Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "R26",
+                    "id": 482,
+                    "name": "Lesbian and Gay Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "R28",
+                    "id": 483,
+                    "name": "Children\u2019s Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "R30",
+                    "id": 484,
+                    "name": "Intergroup & Race Relations"
+                },
+                {
+                    "assignable": true,
+                    "code": "R40",
+                    "id": 485,
+                    "name": "Voter Education & Registration"
+                },
+                {
+                    "assignable": true,
+                    "code": "R60",
+                    "id": 486,
+                    "name": "Civil Liberties"
+                },
+                {
+                    "assignable": true,
+                    "code": "R61",
+                    "id": 487,
+                    "name": "Reproductive Rights"
+                },
+                {
+                    "assignable": true,
+                    "code": "R62",
+                    "id": 488,
+                    "name": "Right to Life"
+                },
+                {
+                    "assignable": true,
+                    "code": "R63",
+                    "id": 489,
+                    "name": "Censorship, Freedom of Speech & Press"
+                },
+                {
+                    "assignable": true,
+                    "code": "R67",
+                    "id": 490,
+                    "name": "Right to Die & Euthanasia"
+                },
+                {
+                    "assignable": true,
+                    "code": "R99",
+                    "id": 491,
+                    "name": "Civil Rights,  Social Action & Advocacy NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 52,
+                    "is_followed": false,
+                    "name": "Human Rights Campaign"
+                },
+                {
+                    "id": 39,
+                    "is_followed": false,
+                    "name": "The Hunger Project"
+                },
+                {
+                    "id": 51,
+                    "is_followed": false,
+                    "name": "Electronic Frontier Foundation"
+                },
+                {
+                    "id": 5,
+                    "is_followed": false,
+                    "name": "National Coalition for Child Protection Reform"
+                },
+                {
+                    "id": 27,
+                    "is_followed": false,
+                    "name": "The Trevor Project"
+                },
+                {
+                    "id": 34,
+                    "is_followed": false,
+                    "name": "Futures Without Violence"
+                },
+                {
+                    "id": 17,
+                    "is_followed": true,
+                    "name": "United Negro College Fund"
+                },
+                {
+                    "id": 50,
+                    "is_followed": false,
+                    "name": "ACLU"
+                },
+                {
+                    "id": 36,
+                    "is_followed": false,
+                    "name": "Southern Poverty Law Center"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "is_followed": false,
+            "name": "Mental Health ",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "F01",
+                    "id": 144,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "F02",
+                    "id": 145,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "F03",
+                    "id": 146,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "F05",
+                    "id": 147,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "F11",
+                    "id": 148,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "F12",
+                    "id": 149,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "F19",
+                    "id": 150,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "F20",
+                    "id": 151,
+                    "name": "Substance Abuse Dependency, Prevention & Treatment"
+                },
+                {
+                    "assignable": true,
+                    "code": "F21",
+                    "id": 152,
+                    "name": "Substance Abuse Prevention"
+                },
+                {
+                    "assignable": true,
+                    "code": "F22",
+                    "id": 153,
+                    "name": "Substance Abuse Treatment"
+                },
+                {
+                    "assignable": true,
+                    "code": "F30",
+                    "id": 154,
+                    "name": "Mental Health Treatment"
+                },
+                {
+                    "assignable": true,
+                    "code": "F31",
+                    "id": 155,
+                    "name": "Psychiatric Hospitals"
+                },
+                {
+                    "assignable": true,
+                    "code": "F32",
+                    "id": 156,
+                    "name": "Community Mental Health Centers"
+                },
+                {
+                    "assignable": true,
+                    "code": "F33",
+                    "id": 157,
+                    "name": "Residential Mental Health Treatment"
+                },
+                {
+                    "assignable": true,
+                    "code": "F40",
+                    "id": 158,
+                    "name": "Hot Lines & Crisis Intervention"
+                },
+                {
+                    "assignable": true,
+                    "code": "F42",
+                    "id": 159,
+                    "name": "Sexual Assault Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "F50",
+                    "id": 160,
+                    "name": "Addictive Disorders NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "F52",
+                    "id": 161,
+                    "name": "Smoking Addiction"
+                },
+                {
+                    "assignable": true,
+                    "code": "F53",
+                    "id": 162,
+                    "name": "Eating Disorders & Addictions"
+                },
+                {
+                    "assignable": true,
+                    "code": "F54",
+                    "id": 163,
+                    "name": "Gambling Addiction"
+                },
+                {
+                    "assignable": true,
+                    "code": "F60",
+                    "id": 164,
+                    "name": "Counseling"
+                },
+                {
+                    "assignable": true,
+                    "code": "F70",
+                    "id": 165,
+                    "name": "Mental Health Disorders"
+                },
+                {
+                    "assignable": true,
+                    "code": "F80",
+                    "id": 166,
+                    "name": "Mental Health Associations"
+                },
+                {
+                    "assignable": true,
+                    "code": "F99",
+                    "id": 167,
+                    "name": "Mental Health & Crisis Intervention NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 3,
+                    "is_followed": false,
+                    "name": "THUNDER RODE INC"
+                },
+                {
+                    "id": 28,
+                    "is_followed": false,
+                    "name": "Partnership for a Drug Free America"
+                },
+                {
+                    "id": 29,
+                    "is_followed": false,
+                    "name": "American Psychiatric Foundation"
+                },
+                {
+                    "id": 37,
+                    "is_followed": false,
+                    "name": "Rape, Abuse & Incest National Network"
+                },
+                {
+                    "id": 27,
+                    "is_followed": false,
+                    "name": "The Trevor Project"
+                },
+                {
+                    "id": 26,
+                    "is_followed": false,
+                    "name": "American Foundation for Suicide Prevention"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "is_followed": false,
+            "name": "Health",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "E01",
+                    "id": 115,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "E02",
+                    "id": 116,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "E03",
+                    "id": 117,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "E05",
+                    "id": 118,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "E11",
+                    "id": 119,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "E12",
+                    "id": 120,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "E19",
+                    "id": 121,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "E20",
+                    "id": 122,
+                    "name": "Hospitals"
+                },
+                {
+                    "assignable": true,
+                    "code": "E21",
+                    "id": 123,
+                    "name": "Community Health Systems"
+                },
+                {
+                    "assignable": true,
+                    "code": "E22",
+                    "id": 124,
+                    "name": "General Hospitals"
+                },
+                {
+                    "assignable": true,
+                    "code": "E24",
+                    "id": 125,
+                    "name": "Specialty Hospitals"
+                },
+                {
+                    "assignable": true,
+                    "code": "E30",
+                    "id": 126,
+                    "name": "Ambulatory & Primary Health Care"
+                },
+                {
+                    "assignable": true,
+                    "code": "E31",
+                    "id": 127,
+                    "name": "Group Health Practices"
+                },
+                {
+                    "assignable": true,
+                    "code": "E32",
+                    "id": 128,
+                    "name": "Community Clinics"
+                },
+                {
+                    "assignable": true,
+                    "code": "E40",
+                    "id": 129,
+                    "name": "Reproductive Health Care"
+                },
+                {
+                    "assignable": true,
+                    "code": "E42",
+                    "id": 130,
+                    "name": "Family Planning"
+                },
+                {
+                    "assignable": true,
+                    "code": "E50",
+                    "id": 131,
+                    "name": "Rehabilitative Care"
+                },
+                {
+                    "assignable": true,
+                    "code": "E60",
+                    "id": 132,
+                    "name": "Health Support"
+                },
+                {
+                    "assignable": true,
+                    "code": "E61",
+                    "id": 133,
+                    "name": "Blood Banks"
+                },
+                {
+                    "assignable": true,
+                    "code": "E62",
+                    "id": 134,
+                    "name": "Emergency Medical Services & Transport"
+                },
+                {
+                    "assignable": true,
+                    "code": "E65",
+                    "id": 135,
+                    "name": "Organ & Tissue Banks"
+                },
+                {
+                    "assignable": true,
+                    "code": "E70",
+                    "id": 136,
+                    "name": "Public Health"
+                },
+                {
+                    "assignable": true,
+                    "code": "E80",
+                    "id": 137,
+                    "name": "Health (General & Financing)"
+                },
+                {
+                    "assignable": true,
+                    "code": "E86",
+                    "id": 138,
+                    "name": "Patient & Family Support"
+                },
+                {
+                    "assignable": true,
+                    "code": "E90",
+                    "id": 139,
+                    "name": "Nursing"
+                },
+                {
+                    "assignable": true,
+                    "code": "E91",
+                    "id": 140,
+                    "name": "Nursing Facilities"
+                },
+                {
+                    "assignable": true,
+                    "code": "E92",
+                    "id": 141,
+                    "name": "Home Health Care"
+                },
+                {
+                    "assignable": true,
+                    "code": "E99",
+                    "id": 142,
+                    "name": "Health Care NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "F01",
+                    "id": 144,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "F02",
+                    "id": 145,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "F03",
+                    "id": 146,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "F05",
+                    "id": 147,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "F11",
+                    "id": 148,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "F12",
+                    "id": 149,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "F19",
+                    "id": 150,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "F20",
+                    "id": 151,
+                    "name": "Substance Abuse Dependency, Prevention & Treatment"
+                },
+                {
+                    "assignable": true,
+                    "code": "F21",
+                    "id": 152,
+                    "name": "Substance Abuse Prevention"
+                },
+                {
+                    "assignable": true,
+                    "code": "F22",
+                    "id": 153,
+                    "name": "Substance Abuse Treatment"
+                },
+                {
+                    "assignable": true,
+                    "code": "F30",
+                    "id": 154,
+                    "name": "Mental Health Treatment"
+                },
+                {
+                    "assignable": true,
+                    "code": "F31",
+                    "id": 155,
+                    "name": "Psychiatric Hospitals"
+                },
+                {
+                    "assignable": true,
+                    "code": "F32",
+                    "id": 156,
+                    "name": "Community Mental Health Centers"
+                },
+                {
+                    "assignable": true,
+                    "code": "F33",
+                    "id": 157,
+                    "name": "Residential Mental Health Treatment"
+                },
+                {
+                    "assignable": true,
+                    "code": "F40",
+                    "id": 158,
+                    "name": "Hot Lines & Crisis Intervention"
+                },
+                {
+                    "assignable": true,
+                    "code": "F42",
+                    "id": 159,
+                    "name": "Sexual Assault Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "F50",
+                    "id": 160,
+                    "name": "Addictive Disorders NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "F52",
+                    "id": 161,
+                    "name": "Smoking Addiction"
+                },
+                {
+                    "assignable": true,
+                    "code": "F53",
+                    "id": 162,
+                    "name": "Eating Disorders & Addictions"
+                },
+                {
+                    "assignable": true,
+                    "code": "F54",
+                    "id": 163,
+                    "name": "Gambling Addiction"
+                },
+                {
+                    "assignable": true,
+                    "code": "F60",
+                    "id": 164,
+                    "name": "Counseling"
+                },
+                {
+                    "assignable": true,
+                    "code": "F70",
+                    "id": 165,
+                    "name": "Mental Health Disorders"
+                },
+                {
+                    "assignable": true,
+                    "code": "F80",
+                    "id": 166,
+                    "name": "Mental Health Associations"
+                },
+                {
+                    "assignable": true,
+                    "code": "F99",
+                    "id": 167,
+                    "name": "Mental Health & Crisis Intervention NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 47,
+                    "is_followed": false,
+                    "name": "U.S. Fund for UNICEF"
+                },
+                {
+                    "id": 33,
+                    "is_followed": false,
+                    "name": "Autism Speaks"
+                },
+                {
+                    "id": 42,
+                    "is_followed": true,
+                    "name": "American Red Cross"
+                },
+                {
+                    "id": 26,
+                    "is_followed": false,
+                    "name": "American Foundation for Suicide Prevention"
+                },
+                {
+                    "id": 37,
+                    "is_followed": false,
+                    "name": "Rape, Abuse & Incest National Network"
+                },
+                {
+                    "id": 24,
+                    "is_followed": false,
+                    "name": "City of Hope"
+                },
+                {
+                    "id": 3,
+                    "is_followed": false,
+                    "name": "THUNDER RODE INC"
+                },
+                {
+                    "id": 29,
+                    "is_followed": false,
+                    "name": "American Psychiatric Foundation"
+                },
+                {
+                    "id": 28,
+                    "is_followed": false,
+                    "name": "Partnership for a Drug Free America"
+                },
+                {
+                    "id": 25,
+                    "is_followed": false,
+                    "name": "American Heart Association "
+                },
+                {
+                    "id": 27,
+                    "is_followed": false,
+                    "name": "The Trevor Project"
+                },
+                {
+                    "id": 23,
+                    "is_followed": false,
+                    "name": "Make-A-Wish Foundation of America"
+                },
+                {
+                    "id": 48,
+                    "is_followed": true,
+                    "name": "Doctors Without Borders"
+                },
+                {
+                    "id": 54,
+                    "is_followed": false,
+                    "name": "Wounded Warrior Project"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "is_followed": false,
+            "name": "Food & Nutrition ",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "K01",
+                    "id": 283,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "K02",
+                    "id": 284,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "K03",
+                    "id": 285,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "K05",
+                    "id": 286,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "K11",
+                    "id": 287,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "K12",
+                    "id": 288,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "K19",
+                    "id": 289,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "K20",
+                    "id": 290,
+                    "name": "Agricultural Programs"
+                },
+                {
+                    "assignable": true,
+                    "code": "K25",
+                    "id": 291,
+                    "name": "Farmland Preservation"
+                },
+                {
+                    "assignable": true,
+                    "code": "K26",
+                    "id": 292,
+                    "name": "Animal Husbandry"
+                },
+                {
+                    "assignable": true,
+                    "code": "K28",
+                    "id": 293,
+                    "name": "Farm Bureaus & Granges"
+                },
+                {
+                    "assignable": true,
+                    "code": "K30",
+                    "id": 294,
+                    "name": "Food Programs"
+                },
+                {
+                    "assignable": true,
+                    "code": "K31",
+                    "id": 295,
+                    "name": "Food Banks & Pantries"
+                },
+                {
+                    "assignable": true,
+                    "code": "K34",
+                    "id": 296,
+                    "name": "Congregate Meals"
+                },
+                {
+                    "assignable": true,
+                    "code": "K35",
+                    "id": 297,
+                    "name": "Soup Kitchens"
+                },
+                {
+                    "assignable": true,
+                    "code": "K36",
+                    "id": 298,
+                    "name": "Meals on Wheels"
+                },
+                {
+                    "assignable": true,
+                    "code": "K40",
+                    "id": 299,
+                    "name": "Nutrition"
+                },
+                {
+                    "assignable": true,
+                    "code": "K50",
+                    "id": 300,
+                    "name": "Home Economics"
+                },
+                {
+                    "assignable": true,
+                    "code": "K99",
+                    "id": 301,
+                    "name": "Food, Agriculture & Nutrition NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 45,
+                    "is_followed": false,
+                    "name": "World Food Program USA"
+                },
+                {
+                    "id": 41,
+                    "is_followed": false,
+                    "name": "Meals On Wheels Association of America"
+                },
+                {
+                    "id": 38,
+                    "is_followed": false,
+                    "name": "Center for Science in the Public Interest"
+                },
+                {
+                    "id": 40,
+                    "is_followed": false,
+                    "name": "Feeding America"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "is_followed": false,
+            "name": "Animals",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "D20",
+                    "id": 103,
+                    "name": "Animal Protection & Welfare"
+                },
+                {
+                    "assignable": true,
+                    "code": "D60",
+                    "id": 111,
+                    "name": "Animal Services NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "D61",
+                    "id": 112,
+                    "name": "Animal Training"
+                },
+                {
+                    "assignable": true,
+                    "code": "D99",
+                    "id": 113,
+                    "name": "Animal-Related NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 12,
+                    "is_followed": false,
+                    "name": "PetSmart Charities"
+                },
+                {
+                    "id": 13,
+                    "is_followed": false,
+                    "name": "Puppies Behind Bars"
+                },
+                {
+                    "id": 11,
+                    "is_followed": false,
+                    "name": " Best Friends Animal Society"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "is_followed": false,
+            "name": "Environment",
+            "ntees": [
+                {
+                    "assignable": true,
+                    "code": "A01",
+                    "id": 2,
+                    "name": "Alliances & Advocacy"
+                },
+                {
+                    "assignable": true,
+                    "code": "A02",
+                    "id": 3,
+                    "name": "Management & Technical Assistance"
+                },
+                {
+                    "assignable": true,
+                    "code": "A03",
+                    "id": 4,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "A05",
+                    "id": 5,
+                    "name": "Research Institutes & Public Policy Analysis"
+                },
+                {
+                    "assignable": true,
+                    "code": "A19",
+                    "id": 8,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "A20",
+                    "id": 9,
+                    "name": "Arts & Culture"
+                },
+                {
+                    "assignable": true,
+                    "code": "A23",
+                    "id": 10,
+                    "name": "Cultural & Ethnic Awareness"
+                },
+                {
+                    "assignable": true,
+                    "code": "A25",
+                    "id": 12,
+                    "name": "Arts Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "A26",
+                    "id": 13,
+                    "name": "Arts & Humanities Councils & Agencies"
+                },
+                {
+                    "assignable": true,
+                    "code": "A27",
+                    "id": 14,
+                    "name": "Community Celebrations"
+                },
+                {
+                    "assignable": true,
+                    "code": "A30",
+                    "id": 15,
+                    "name": "Media & Communications"
+                },
+                {
+                    "assignable": true,
+                    "code": "A52",
+                    "id": 23,
+                    "name": "Children\u2019s Museums"
+                },
+                {
+                    "assignable": true,
+                    "code": "A56",
+                    "id": 25,
+                    "name": "Natural History & Natural Science Museums"
+                },
+                {
+                    "assignable": true,
+                    "code": "A57",
+                    "id": 26,
+                    "name": "Science & Technology Museums"
+                },
+                {
+                    "assignable": true,
+                    "code": "A61",
+                    "id": 28,
+                    "name": "Performing Arts Centers"
+                },
+                {
+                    "assignable": true,
+                    "code": "A62",
+                    "id": 29,
+                    "name": "Dance"
+                },
+                {
+                    "assignable": true,
+                    "code": "A68",
+                    "id": 32,
+                    "name": "Music"
+                },
+                {
+                    "assignable": true,
+                    "code": "A69",
+                    "id": 33,
+                    "name": "Symphony Orchestras"
+                },
+                {
+                    "assignable": true,
+                    "code": "A6B",
+                    "id": 35,
+                    "name": "Singing & Choral Groups"
+                },
+                {
+                    "assignable": true,
+                    "code": "A6C",
+                    "id": 36,
+                    "name": "Bands & Ensembles"
+                },
+                {
+                    "assignable": true,
+                    "code": "A6E",
+                    "id": 37,
+                    "name": "Performing Arts Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "A80",
+                    "id": 39,
+                    "name": "Historical Organizations"
+                },
+                {
+                    "assignable": true,
+                    "code": "A82",
+                    "id": 40,
+                    "name": "Historical Societies & Historic Preservation"
+                },
+                {
+                    "assignable": true,
+                    "code": "A84",
+                    "id": 41,
+                    "name": "Commemorative Events"
+                },
+                {
+                    "assignable": true,
+                    "code": "A90",
+                    "id": 42,
+                    "name": "Arts Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "A99",
+                    "id": 43,
+                    "name": "Arts, Culture & Humanities NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "B01",
+                    "id": 45,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "B02",
+                    "id": 46,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "B03",
+                    "id": 47,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "B05",
+                    "id": 48,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "B19",
+                    "id": 51,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "B20",
+                    "id": 52,
+                    "name": "Elementary & Secondary Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B21",
+                    "id": 53,
+                    "name": "Preschools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B24",
+                    "id": 54,
+                    "name": "Primary & Elementary Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B25",
+                    "id": 55,
+                    "name": "Secondary & High Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B28",
+                    "id": 56,
+                    "name": "Special Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "B29",
+                    "id": 57,
+                    "name": "Charter Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B30",
+                    "id": 58,
+                    "name": "Vocational & Technical Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B40",
+                    "id": 59,
+                    "name": "Higher Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "B41",
+                    "id": 60,
+                    "name": "Two-Year Colleges"
+                },
+                {
+                    "assignable": true,
+                    "code": "B42",
+                    "id": 61,
+                    "name": "Undergraduate Colleges"
+                },
+                {
+                    "assignable": true,
+                    "code": "B50",
+                    "id": 63,
+                    "name": "Graduate & Professional Schools"
+                },
+                {
+                    "assignable": true,
+                    "code": "B60",
+                    "id": 64,
+                    "name": "Adult Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "B80",
+                    "id": 66,
+                    "name": "Student Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "B82",
+                    "id": 67,
+                    "name": "Scholarships & Student Financial Aid"
+                },
+                {
+                    "assignable": true,
+                    "code": "B84",
+                    "id": 69,
+                    "name": "Alumni Associations"
+                },
+                {
+                    "assignable": true,
+                    "code": "B90",
+                    "id": 70,
+                    "name": "Educational Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "B92",
+                    "id": 71,
+                    "name": "Remedial Reading & Encouragement"
+                },
+                {
+                    "assignable": true,
+                    "code": "B94",
+                    "id": 72,
+                    "name": "Parent & Teacher Groups"
+                },
+                {
+                    "assignable": true,
+                    "code": "B99",
+                    "id": 73,
+                    "name": "Education NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "C01",
+                    "id": 75,
+                    "name": "Alliances & Advocacy "
+                },
+                {
+                    "assignable": true,
+                    "code": "C02",
+                    "id": 76,
+                    "name": "Management & Technical Assistance "
+                },
+                {
+                    "assignable": true,
+                    "code": "C03",
+                    "id": 77,
+                    "name": "Professional Societies & Associations "
+                },
+                {
+                    "assignable": true,
+                    "code": "C05",
+                    "id": 78,
+                    "name": "Research Institutes & Public Policy Analysis "
+                },
+                {
+                    "assignable": true,
+                    "code": "C11",
+                    "id": 79,
+                    "name": "Single Organization Support "
+                },
+                {
+                    "assignable": true,
+                    "code": "C12",
+                    "id": 80,
+                    "name": "Fund Raising & Fund Distribution "
+                },
+                {
+                    "assignable": true,
+                    "code": "C19",
+                    "id": 81,
+                    "name": "Support NEC"
+                },
+                {
+                    "assignable": true,
+                    "code": "C20",
+                    "id": 82,
+                    "name": "Pollution Abatement & Control"
+                },
+                {
+                    "assignable": true,
+                    "code": "C27",
+                    "id": 83,
+                    "name": "Recycling"
+                },
+                {
+                    "assignable": true,
+                    "code": "C30",
+                    "id": 84,
+                    "name": "Natural Resources Conservation & Protection"
+                },
+                {
+                    "assignable": true,
+                    "code": "C32",
+                    "id": 85,
+                    "name": "Water Resources, Wetlands Conservation & Management"
+                },
+                {
+                    "assignable": true,
+                    "code": "C34",
+                    "id": 86,
+                    "name": "Land Resources Conservation"
+                },
+                {
+                    "assignable": true,
+                    "code": "C35",
+                    "id": 87,
+                    "name": "Energy Resources Conservation & Development"
+                },
+                {
+                    "assignable": true,
+                    "code": "C36",
+                    "id": 88,
+                    "name": "Forest Conservation"
+                },
+                {
+                    "assignable": true,
+                    "code": "C40",
+                    "id": 89,
+                    "name": "Botanical, Horticultural & Landscape Services"
+                },
+                {
+                    "assignable": true,
+                    "code": "C41",
+                    "id": 90,
+                    "name": "Botanical Gardens & Arboreta"
+                },
+                {
+                    "assignable": true,
+                    "code": "C42",
+                    "id": 91,
+                    "name": "Garden Clubs"
+                },
+                {
+                    "assignable": true,
+                    "code": "C50",
+                    "id": 92,
+                    "name": "Environmental Beautification"
+                },
+                {
+                    "assignable": true,
+                    "code": "C60",
+                    "id": 93,
+                    "name": "Environmental Education"
+                },
+                {
+                    "assignable": true,
+                    "code": "C99",
+                    "id": 94,
+                    "name": "Environment NEC"
+                }
+            ],
+            "organizations": [
+                {
+                    "id": 19,
+                    "is_followed": false,
+                    "name": "Conservation International"
+                },
+                {
+                    "id": 18,
+                    "is_followed": false,
+                    "name": "Natural Resources Defense Council"
+                },
+                {
+                    "id": 10,
+                    "is_followed": false,
+                    "name": "World Wildlife Fund"
+                },
+                {
+                    "id": 17,
+                    "is_followed": true,
+                    "name": "United Negro College Fund"
+                },
+                {
+                    "id": 14,
+                    "is_followed": true,
+                    "name": "Teach for America "
+                },
+                {
+                    "id": 16,
+                    "is_followed": false,
+                    "name": "College Track "
+                },
+                {
+                    "id": 20,
+                    "is_followed": false,
+                    "name": "Rainforest Alliance "
+                }
+            ]
+        }
+    ]
+}

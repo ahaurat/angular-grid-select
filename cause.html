@@ -1,0 +1,28 @@
+<div class="dropdown keep-open col-lg-3 col-md-3"  ng-repeat="result in appCtrl.arr.results">
+	<!-- Cause -->
+	<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
+		<div id="dropName"><div id="count">{{result.count == 0 ? "" : result.count}}</div>  {{result.name}}</div> 
+		<div id="caretDiv"><span class="caret"></span></div>
+	</button>
+
+	<!-- Organizations -->
+	<ul class="dropdown-menu" role="menu">
+		<div class="menu-area">
+			<h3>Select NPOs related to {{result.name}}</h3>
+			<div class="orgDiv"
+				 ng-repeat="organization in result.organizations"
+				 ng-controller="OrganizationController as orgCtrl"
+				 ng-click="clicked()"
+				 ng-class="{ 'selected': organization.is_followed == true }">
+				<li role="presentation">
+					<div role="menuitem" class="orgName">
+					    {{organization.name}}
+					</div>
+					<div class="plusMinus" ng-class="{'selected': organization.is_followed==true }">
+						{{organization.is_followed == true ? " - " : " + "}}
+					</div>
+				</li>
+			</div>
+		</div>
+	</ul>
+</div>
