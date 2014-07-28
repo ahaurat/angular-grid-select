@@ -20,7 +20,7 @@ h3 {
 }
 
 .dropdown button, .orgDiv {
-	height: 3em;
+	height: 4em;
 }
 
 .dropdown-menu {
@@ -33,7 +33,7 @@ h3 {
 }
 
 .orgDiv {
-	padding: 8px 5px 0 5px;
+	padding: 12px 5px 0 5px;
 	border: 1px solid lightgray;
 	margin: 0 5px 15px 5px;
 	background-color: #F9F9F9;
