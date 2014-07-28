@@ -1,6 +1,6 @@
 (function() {
 
-    var app = angular.module('pledgling', []);
+    var app = angular.module('GridSelect', []);
 
   
     app.controller('AppController', ['$http', '$scope', function($http, $scope){
@@ -27,7 +27,6 @@
 
 
     app.controller('OrganizationController', ['$scope', function($scope) {
-
         $scope.clicked = function() {
             // Use the organization.id to find other instances 
             var orgId = $scope.organization.id;

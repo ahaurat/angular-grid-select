@@ -1,0 +1,90 @@
+.container-fluid{
+	margin: 50px 10px 0px 10px;
+	border: 2px solid gray;
+	padding-bottom: 20px;
+}
+
+h2 {
+	color: #5835B6;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: 200;
+	color: #5835B6;
+}
+
+.dropdown button {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.dropdown button, .orgDiv {
+	height: 4em;
+}
+
+.dropdown-menu {
+	left: auto;
+	top: 60%;
+}
+
+.menu-area h3 {
+	margin: 15px 5px 15px 5px;
+}
+
+.orgDiv {
+	padding: 12px 5px 0 5px;
+	border: 1px solid lightgray;
+	margin: 0 5px 15px 5px;
+	background-color: #F9F9F9;
+}
+
+.orgName {
+	display: inline-block;
+	max-width: 85%;
+}
+
+.plusMinus {
+	display: inline-block;
+	float: right;
+	padding: 0 0 0 8px;
+	border-radius: 25%;
+	font-weight: 500;
+	font-size: 16px;
+	width: 24px;
+	height: 24px;
+}
+
+.orgDiv:hover {
+	cursor: pointer;
+}
+
+#count {
+	background-color: #5835B6;
+	color: white;
+	display: inline-block;
+	padding: 0 5px 0 5px;
+	border-radius: 100%;
+}
+
+#dropName {
+	float: left;
+}
+
+#caretDiv {
+	float: right;
+}
+
+.selected, .plusMinus {
+	background-color: #5835B6;
+	color: white;
+}
+
+.plusMinus.selected {
+	background-color: white;
+	color: #5835B6;
+}
+
+#ps {
+	text-align: center;
+}
