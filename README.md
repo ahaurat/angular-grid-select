@@ -1,4 +1,4 @@
-pledgling
+Angular Grid Select
 =========
 
 A linked set of dropdown menus created with AngularJS
